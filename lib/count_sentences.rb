@@ -20,4 +20,3 @@ class String
     array.count
   end
 end
-end
